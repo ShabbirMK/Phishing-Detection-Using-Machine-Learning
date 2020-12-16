@@ -1,4 +1,4 @@
-# Phishing-Detection
+# Phishing-Detection-Using-Machine-Learning
 
 I developed a web app ready to be hosted on the internet for everyone's usage.
 
