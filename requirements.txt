@@ -1,0 +1,9 @@
+Flask==0.10.1
+googlesearch-python
+numpy
+joblib
+scipy
+threadpoolctl
+sklearn
+scikit-learn
+whois
